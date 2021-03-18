@@ -13,7 +13,7 @@ dependencies {
 ```
 
 ### Usage:
-[Example](https://github.com/cafedevelopment/reflectionsettings/blob/master/src/main/java/club/cafedevelopment/blitz/example/ExampleUsage.java)
+[Example](https://github.com/CafeDevelopment/ReflectionSettings/blob/master/src/main/java/club/cafedevelopment/reflectionsettings/example/ExampleUsage.java)
 
 ### Contributing:
     - Make your own fork.
